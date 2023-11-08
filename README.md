@@ -1,1 +1,1 @@
-# ai-generated-art-detection
+# AI Generated Art Detection
