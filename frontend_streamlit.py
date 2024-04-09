@@ -19,8 +19,6 @@ if __name__ == "__main__":
     #img_path = 'painting-Vincent-Van-Gogh-Sunflowers-canvas-Oil.jpg'
     #img = Image.open(img)
     transform = transforms.Compose([transforms.Resize((256,256)),transforms.ToTensor()])
-    
-
 
     left, center, right = st.columns(3)
     with center:
