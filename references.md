@@ -1,6 +1,8 @@
 **References:**
 [1] D. Li, J. Li, H. Le, G. Wang, S. Savarese, and S. C. H. Hoi, ‘Lavis: A library for language-vision intelligence’, arXiv preprint arXiv:2209. 09019, 2022.
+
 [2] C. Tan, Y. Zhao, S. Wei, G. Gu, and Y. Wei, ‘Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection’, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 12105–12114.
+
 [3] D. C. Epstein, I. Jain, O. Wang, and R. Zhang, ‘Online Detection of AI-Generated Images’, in ICCV DeepFake Analysis and Detection Workshop, 2023.
 
 **Datasets:**
